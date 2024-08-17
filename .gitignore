@@ -4,8 +4,10 @@
 !README.md
 
 # do not ignore resourcepacks
-#!/resourcepacks/LaserIO_QOL/**
-#!/resourcepacks/StarTech_labPBR/assets/**
+!/resourcepacks/LaserIO_QOL/**
+!/resourcepacks/StarTech_labPBR/assets/**
+!/resourcepacks/StarTech_labPBR/pack.mcmeta
+!/resourcepacks/StarTech_labPBR/pack.png
 
 # resourcepacks houdini pipeline
 !/resourcepacks/StarTech_labPBR/_houdini/**/*
