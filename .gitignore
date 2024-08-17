@@ -8,8 +8,8 @@
 #!/resourcepacks/StarTech_labPBR/assets/**
 
 # resourcepacks houdini pipeline
-#!/resourcepacks/StarTech_labPBR/_houdini/**/*
-#/resourcepacks/StarTech_labPBR/_houdini/**/backup/*
+!/resourcepacks/StarTech_labPBR/_houdini/**/*
+/resourcepacks/StarTech_labPBR/_houdini/**/backup/*
 
 
 # do not ignore shaderpacks
