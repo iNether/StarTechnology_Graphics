@@ -13,8 +13,8 @@
 
 
 # do not ignore shaderpacks
-#!/shaderpacks/rethinking-voxels_StarTech/shaders/*.properties
-#!/shaderpacks/rethinking-voxels_StarTech.txt
+!/shaderpacks/rethinking-voxels_StarTech/shaders/*.properties
+!/shaderpacks/rethinking-voxels_StarTech.txt
 
 # kubejs recipes tweaks
 !/kubejs/server_scripts/nthr_tweaks.js
