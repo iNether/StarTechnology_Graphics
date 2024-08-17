@@ -1,18 +1,22 @@
 *
+!.gitattributes
 !.gitignore
 !README.md
 
 # do not ignore resourcepacks
-!resourcepacks/LaserIO_QOL/*
-!resourcepacks/StarTech_labPBR/assets/*
+#!/resourcepacks/LaserIO_QOL/**
+#!/resourcepacks/StarTech_labPBR/assets/**
+
 # resourcepacks houdini pipeline
-!resourcepacks/StarTech_labPBR/_houdini/*
-resourcepacks/StarTech_labPBR/_houdini/backups/*
+#!/resourcepacks/StarTech_labPBR/_houdini/**/*
+#/resourcepacks/StarTech_labPBR/_houdini/**/backup/*
 
 
 # do not ignore shaderpacks
-!shaderpacks/rethinking-voxels_StarTech/shaders/*.properties
-!shaderpacks/rethinking-voxels_StarTech.txt
+#!/shaderpacks/rethinking-voxels_StarTech/shaders/*.properties
+#!/shaderpacks/rethinking-voxels_StarTech.txt
 
 # kubejs recipes tweaks
-!kubejs/server_scripts/nthr_tweaks.js
+#!/kubejs/server_scripts/nthr_tweaks.js
+
+!**/
